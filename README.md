@@ -1,1 +1,2 @@
 # Cryptocurrencies
+The purpose of this analysis is to preprocess Cryptocurrency Data and perform a Principal Component Analysis on the processed data. The top 3 principal components are passed through a k-means model - testing for the best number of clusters - and then visualizing the results.
